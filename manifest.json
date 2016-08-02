@@ -11,6 +11,6 @@
     }
   ],
   "web_accessible_resources": [
-    "script.js"
+    "script.user.js"
   ]
 } 
